@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+img{
+    width: 100%;
+    border: solid white;
+}
+
+h1{
+    font-family: 'Libre Baskerville', sans-serif;
+    color: white;
+    text-align: center;
+}
+
+p{
+    color: white;
+    text-align: center;
+}
+
+#leon{
+    width: 50%;
+    margin-left: 25%;
+}
+
+footer{
+    margin-top: 25%;
+}
